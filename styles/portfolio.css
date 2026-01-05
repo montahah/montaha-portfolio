@@ -173,4 +173,34 @@ nav .menu a{
     line-height: 28px;
     color: #757575;
 }
+#resume .section-heading{
+    margin-top: 130px;
+}
+.resume-container{
+    max-width: 1140px;
+    margin: 113px auto 0;
+    display: flex;
+    gap: 24px;
+}
+.resume-container h2{
+    font-size: 30px;
+    color: #474747;
+    margin-bottom: 30px;
+}
+.resume-single-card h3{
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.resume-single-card h4{
+    color: #757575;
+    font-size: 20px;
+    margin-bottom: 20px;
 
+}
+.resume-single-card p{
+    font-size: 16px;
+    margin-bottom: 30px;
+    color: #757575;
+
+}
